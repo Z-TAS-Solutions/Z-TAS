@@ -1,0 +1,25 @@
+[submodule "ZCrypt"]
+	path = ZCrypt
+	url = https://github.com/Z-TAS-Solutions/ZCrypt.git
+[submodule "Z-TAS-Admin-Panel"]
+	path = Z-TAS-Admin-Panel
+	url = https://github.com/Z-TAS-Solutions/Z-TAS-Admin-Panel.git
+[submodule "Z-TAS-Auth-App"]
+	path = Z-TAS-Auth-App
+	url = https://github.com/Z-TAS-Solutions/Z-TAS-Frontend.git
+[submodule "ZScannerService"]
+	path = ZScannerService
+	url = https://github.com/Z-TAS-Solutions/ZScannerService.git
+[submodule "ZCrypt-FusionEngine"]
+	path = ZCrypt-FusionEngine
+	url = https://github.com/Z-TAS-Solutions/ZCrypt-FusionEngine.git
+[submodule "ZScanner"]
+	path = ZScanner
+	url = https://github.com/Z-TAS-Solutions/ZScanner.git
+[submodule "Z-TAS-Portal"]
+	path = Z-TAS-Portal
+	url = https://github.com/Z-TAS-Solutions/Portal-Z.git
+[submodule "Z-QryptGIN-GRPC"]
+	path = Z-QryptGIN-GRPC
+	url = https://github.com/Z-TAS-Solutions/Z-QryptGIN.git
+	branch = Z-QryptGIN-gRPC-zischl
